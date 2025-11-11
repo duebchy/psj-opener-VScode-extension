@@ -16,7 +16,7 @@
   "contributes": {
     "commands": [{
       "command": "psj-opener.helloWorld",
-      "title": "Hello World"
+      "title": "ПСЖ"
     }]
   },
   "scripts": {
